@@ -1,2 +1,2 @@
 # ConvertToCurves
-RoboFont script that convert line segments to curves
+RoboFont script converting line segments to curves
